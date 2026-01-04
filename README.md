@@ -8,11 +8,6 @@ I am a motivated IT fresher and aspiring Java & Full Stack Developer with hands-
 - MySQL, Git, GitHub
 - Basic Python
 
-### 📂 Projects
-- Library Management System
-- Student Management System
-- Employee Management System
-
 ### 🌐 Portfolio
 👉 https://chandana-a.lovable.app
 
